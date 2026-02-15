@@ -28,7 +28,7 @@ function App() {
   return (
     <>
       <div className="card">
-        <h1>Guess The Word 🚀</h1>
+        <h1>Guess The Word 🚀🚀</h1>
         <h3>Word Display</h3>
         {generateWordDisplay()}
         <h3>Guessed Letters</h3>
